@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/agribourse/static/css/main.377ce2a7.chunk.css",
+    "main.js": "/agribourse/static/js/main.5d656e59.chunk.js",
+    "main.js.map": "/agribourse/static/js/main.5d656e59.chunk.js.map",
+    "runtime-main.js": "/agribourse/static/js/runtime-main.f04ff16a.js",
+    "runtime-main.js.map": "/agribourse/static/js/runtime-main.f04ff16a.js.map",
+    "static/js/2.baf33c77.chunk.js": "/agribourse/static/js/2.baf33c77.chunk.js",
+    "static/js/2.baf33c77.chunk.js.map": "/agribourse/static/js/2.baf33c77.chunk.js.map",
+    "index.html": "/agribourse/index.html",
+    "precache-manifest.44fc7a015daecf8334971103f7f0194f.js": "/agribourse/precache-manifest.44fc7a015daecf8334971103f7f0194f.js",
+    "service-worker.js": "/agribourse/service-worker.js",
+    "static/css/main.377ce2a7.chunk.css.map": "/agribourse/static/css/main.377ce2a7.chunk.css.map",
+    "static/js/2.baf33c77.chunk.js.LICENSE.txt": "/agribourse/static/js/2.baf33c77.chunk.js.LICENSE.txt",
+    "static/media/Agribourse2.png": "/agribourse/static/media/Agribourse2.f0e92cc4.png",
+    "static/media/ShopPageHeader.css": "/agribourse/static/media/bg-pattern.61212320.svg",
+    "static/media/fr.png": "/agribourse/static/media/fr.289c9c6a.png",
+    "static/media/us.png": "/agribourse/static/media/us.d9b287c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f04ff16a.js",
+    "static/js/2.baf33c77.chunk.js",
+    "static/css/main.377ce2a7.chunk.css",
+    "static/js/main.5d656e59.chunk.js"
+  ]
+}
