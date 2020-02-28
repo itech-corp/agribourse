@@ -1,0 +1,14 @@
+.topNav a{
+    color: white!important;
+    height: 100%;
+}
+.topNav a:hover{
+    color: rgb(121, 253, 13)!important;
+}
+.nav-items{
+
+    margin: auto!important;
+}
+.topNav{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,17 @@
+.TopNav{
+    background-color: yellowgreen!important;
+    
+}
+.TopNav a{
+    color: white!important;
+}
+.TopNav .agri-logo{
+    height: 100px;
+}
+.TopNav button,.search-bar input {
+    border-radius:40px;
+    
+}
+.search-bar {
+    width:500px!important;
+}

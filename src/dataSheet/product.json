@@ -1,0 +1,68 @@
+        [
+{
+        "productName":"Abricot",
+        "price":1500,
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "rating":2,
+        "order":50,
+        "review":190,
+        "promo":false,
+        "oldPrice":345,
+        "photos":["https://picsum.photos/500/400","https://picsum.photos/id/237/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400"]
+},
+{
+    "productName":"Riz",
+    "price":2500,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "rating":5,
+    "order":50,
+    "review":190,
+    "promo":false,
+    "oldPrice":345,
+    "photos":["https://picsum.photos/id/237/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400"]
+},
+{
+    "productName":"Sorgho",
+    "price":3700,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "rating":4,
+    "order":50,
+    "review":190,
+    "promo":true,
+    "oldPrice":345,
+    "photos":["https://picsum.photos/id/227/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400"]
+},
+{
+    "productName":"Bles",
+    "price":1200,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "rating":1,
+    "order":50,
+    "review":190,
+    "promo":true,
+    "oldPrice":345,
+    "photos":["https://picsum.photos/id/217/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400"]
+},
+{
+    "productName":"Cacao",
+    "price":4500,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "rating":3,
+    "order":50,
+    "review":190,
+    "promo":true,
+    "oldPrice":345,
+    "photos":["https://picsum.photos/id/137/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400"]
+},
+{
+    "productName":"Salade",
+    "price":7200,
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+    "rating":5,
+    "order":50,
+    "review":190,
+    "promo":false,
+    "oldPrice":345,
+    "photos":["https://picsum.photos/id/27/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400","https://picsum.photos/500/400"]
+}
+]

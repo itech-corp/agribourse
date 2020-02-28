@@ -1,0 +1,26 @@
+.login-page{
+    min-height: 100vh;
+    z-index: 1;
+}
+.login-page .agri-logo{
+    height: 100px;
+    width: auto;
+    margin: 0;
+}
+.login-page .login-jumbotron {
+    background-image: url('https://lh3.googleusercontent.com/proxy/XI8ekcHdBwr9dCmF6tRwCXzamH4LRmb3XaSM9sg3ehCRGP2uDY7R-xEx9AY3ykcBas1Fthac_PfHUBkvM1uNp8pAkNV7UiKF3Qj-TsMBLgPmuExy4Q');
+    background-clip: border-box;
+}
+.bg-image{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(17, 4, 4,.7) , rgba(17, 17, 17,0), rgba(17, 17, 17,.9) ), url('https://wallpapercave.com/wp/dvbKFz3.jpg');
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100vw;
+}
